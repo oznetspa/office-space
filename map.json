@@ -875,10 +875,6 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":2956,
-         "source":"tilesets\/wall_glass.tsx"
         }],
  "tilewidth":32,
  "type":"map",
